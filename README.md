@@ -40,6 +40,7 @@ Networked_JUCE_Template/
 ```
 
 ### 🚀 Quick Start
+> **IMPORTANT**: Download JUCE and modify the CMakeLists.txt according to your installation method
 
 I suggest you to start building this template and taking confidence with Network MIDI 2.0.
 
