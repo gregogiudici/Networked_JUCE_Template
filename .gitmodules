@@ -1,0 +1,6 @@
+[submodule "Modules/NetUMP"]
+	path = Modules/NetUMP
+	url = https://github.com/gregogiudici/NetUMP
+[submodule "Modules/jucey_bonjour"]
+	path = Modules/jucey_bonjour
+	url = https://github.com/gregogiudici/jucey_bonjour
