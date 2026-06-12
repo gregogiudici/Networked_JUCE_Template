@@ -2,7 +2,7 @@
 
 A JUCE template for building **networked audio plugins and applications** with **Network MIDI 2.0** support. It can be used as a starter point for creating your own networked JUCE application, but it is also designed to make it simple to integrate network functionality into an already existing JUCE plugin or standalone project.
 
-This template targets developers working on hard real-time audio software with JUCE who want to add **network-aware MIDI workflows** to a project that already supports local audio and MIDI processing. The main idea is to keep the networking layer modular, reusable, and easy to transplant into another JUCE codebase.
+ The main idea is to keep the networking layer modular, reusable, and easy to transplant into another JUCE codebase.
 
 > NOTE: This template requires at least JUCE 8.0.12
 
